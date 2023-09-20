@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hiii -dev2
+=======
+Hii
+>>>>>>> origin/master
